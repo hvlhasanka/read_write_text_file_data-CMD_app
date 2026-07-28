@@ -1,4 +1,4 @@
-# NSBM SE Y1S2 - CS104.3 Computer Architecture
+# Write Data and Read Data from Text File with C# - Console (CMD) Application
 
 #### Assignment Submission Date: 26th June 2019
 
